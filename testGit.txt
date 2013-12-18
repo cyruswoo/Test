@@ -1,2 +1,13 @@
 Push to Git
+
 CHANGING THIS IN THE BRANCH
+
+made a change
+modified prior to staging
+
+modified post staging
+
+changed post commit
+
+Changes made in 'list' branch
+
